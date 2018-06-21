@@ -1,6 +1,11 @@
-﻿{
-	"versioncode": 0,
-	"version": "beta-1.0.0",
-	"description": "这个版本是第一个测试版本"
-	"link":"http://www.baidu.com"
+{
+	"action": "checkUpdate",
+	"code": 0,
+	"msg": "success",
+	"data": {
+		"versioncode": 0,
+		"version": "beta-1.0.0",
+		"description": "这个版本是第一个测试版本",
+		"link": "http://www.baidu.com"
+	}
 }
