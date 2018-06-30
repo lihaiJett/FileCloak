@@ -3,8 +3,8 @@
 	"code": 0,
 	"msg": "success",
 	"data": {
-		"versioncode": 2,
-		"version": "v1.1",
+		"versioncode": 1,
+		"version": "v1.0",
 		"description": "这个版本是第一个测试版本",
 		"link": "https://github.com/lihaiJett/FileCloak/releases/download/v0.1/Dictionary5.apk"
 	}
